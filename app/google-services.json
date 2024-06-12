@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "967356403505",
+    "firebase_url": "https://shopbtlkotlin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopbtlkotlin",
+    "storage_bucket": "shopbtlkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967356403505:android:fb96aac2bd595b55a5aa10",
+        "android_client_info": {
+          "package_name": "com.example.shopbtlkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNi5xoCseV4s2Ris9TgapOtMD7uZSbswA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

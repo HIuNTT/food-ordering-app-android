@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mHome"
+        android:title="Home"
+        android:icon="@drawable/home_icon" />
+
+    <item android:id="@+id/mOrder"
+        android:title="Đơn hàng"
+        android:icon="@drawable/order_icon" />
+
+    <item android:id="@+id/mCart"
+        android:title="Giỏ hàng"
+        android:icon="@drawable/cart_icon" />
+
+    <item android:id="@+id/mMyself"
+        android:title="Tôi"
+        android:icon="@drawable/myself_icon" />
+
+</menu>
